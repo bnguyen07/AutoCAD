@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectName>Project 1</ProjectName>
+  <ProjectDescription>
+  </ProjectDescription>
+  <ProjectVersion>8</ProjectVersion>
+  <ProjectVersionMinor>0</ProjectVersionMinor>
+  <ProjectParts>
+    <ProjectPart name="PnId" fileName="C:\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\PIP_Metric_PnIdPart.xml" relativeFileName="PIP_Metric_PnIdPart.xml" uncFileName="\\BOOTCAMPPC\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\PIP_Metric_PnIdPart.xml" />
+    <ProjectPart name="Piping" fileName="C:\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Metric_PipingPart.xml" relativeFileName="Metric_PipingPart.xml" uncFileName="\\BOOTCAMPPC\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Metric_PipingPart.xml" />
+    <ProjectPart name="Iso" fileName="C:\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\IsoPart.xml" relativeFileName="IsoPart.xml" uncFileName="\\BOOTCAMPPC\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\IsoPart.xml" />
+    <ProjectPart name="Ortho" fileName="C:\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Metric_OrthoPart.xml" relativeFileName="Metric_OrthoPart.xml" uncFileName="\\BOOTCAMPPC\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Metric_OrthoPart.xml" />
+    <ProjectPart name="Misc" fileName="C:\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\MiscPart.xml" relativeFileName="MiscPart.xml" uncFileName="\\BOOTCAMPPC\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\MiscPart.xml" />
+  </ProjectParts>
+  <ProjectPartDirectories>
+    <ProjectPartDirectory name="SpecSheets" directoryName="C:\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Spec Sheets" relativeDirectoryName="Spec Sheets" uncDirectoryName="\\BOOTCAMPPC\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Spec Sheets" />
+    <ProjectPartDirectory name="Ortho" directoryName="C:\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Orthos\DWGs" relativeDirectoryName="Orthos\DWGs" uncDirectoryName="\\BOOTCAMPPC\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Orthos\DWGs" />
+    <ProjectPartDirectory name="Related Files" directoryName="C:\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Related Files" relativeDirectoryName="Related Files" uncDirectoryName="\\BOOTCAMPPC\Users\briannguyen\Documents\AutoCAD_Projects\Project 1\Related Files" />
+  </ProjectPartDirectories>
+</Project>
